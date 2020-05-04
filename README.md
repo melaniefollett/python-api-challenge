@@ -31,3 +31,6 @@ Next, I used Google Places API to find the first hotel for each city located wit
 - Python/Pandas
 - Matplotlib
 - Google Places API
+
+# Related Work
+I used the results from this project to create a Web Visualization Dashboard.  Please see https://github.com/melaniefollett/web-visualization-dashboard for the back-end work and https://melaniefollett.github.io/web-visualization-dashboard/ for the front-end application.
